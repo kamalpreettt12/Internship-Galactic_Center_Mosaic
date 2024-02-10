@@ -2,7 +2,7 @@ The following scripts included in this repository are:
 
 1. montage.sh
 
-This script uses the astronomical software MONTAGE to reporject the images to a common header and add them up in a mosaic. Please make sure that you have montage already downloaded in your system. 
+This script uses the astronomical software MONTAGE to reporject the images to a common header and add them up in a mosaic. Please make sure that you have montage already downloaded in your system. You can have it from: http://montage.ipac.caltech.edu/docs/download.html
 
 In the terminal, run:
 
