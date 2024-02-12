@@ -12,7 +12,7 @@ In the terminal, run:
 
 2. ragavi.sh
 
-ragavi is a powerful tool to visualize the gain table solutions for the first generation calibration in radio interferomtery and imaging. In this script, we provide a script which will create all the necessary gain table plots for you to check after 1GC, and that too in only one run! 
+ragavi is a powerful tool to visualize the gain table solutions for the first generation calibration in radio interferomtery and imaging. We provide a script which will create all the necessary gain table plots for you to check after 1GC, and that too in only one run! 
 
 To use the script, please make sure that you already have ragavi. If not, you can find the ways to install ragavi from: https://ragavi.readthedocs.io/en/latest/installation.html
 
