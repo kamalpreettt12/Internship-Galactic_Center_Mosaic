@@ -21,5 +21,21 @@ In the terminal, run:
 
 **./ragavi.sh <path/to/delay_table> <path/to/bandpass_table> <path/to/gain_table> <path/to/fluxscale_table> <path/to/store/html_images> <path/to/store/png_images>**
 
-If, the directories for html and png are not there, the script will create one at the mentioned location.
+If the directories for html and png are not there, the script will create one at the mentioned location.
+
+
+3. shadems.sh
+
+shadems is a software package that is used to plot the measurement sets. We use the shadems bash script here to plot the uv coverage of the measurement set colour coded by the antenna and also how the phase is changing with time per target per correlation. 
+
+To use the script, please make sure that you already have shadems. If not, you can find the way to install it from: https://github.com/ratt-ru/shadeMS.git
+
+
+In the terminal, run:
+./shadems.sh <path/to/measurement_set> <number/of/fields> <path/to/store/plots>
+
+If you have 6 field ids, then numnber of fields = 6
+
+If the directory for png is not there, the script will create one at the mentioned location.
+
 
