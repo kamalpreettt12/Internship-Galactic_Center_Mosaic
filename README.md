@@ -36,7 +36,7 @@ In the terminal, run:
 
 **./shadems.sh <path/to/measurement_set> <number/of/fields> <path/to/store/plots>**
 
-If you have 6 field ids, then numnber of fields = 6
+If you have 6 field ids, then number of fields = 6
 
 If the directory for png is not there, the script will create one at the mentioned location.
 
