@@ -34,10 +34,8 @@ To use the script, please make sure that you already have shadems. If not, you c
 In the terminal, run:
 
 
-**./shadems.sh <path/to/measurement_set> <number/of/fields> <path/to/store/plots>**
+**./shadems.sh <path/to/measurement_set> <title/of/the/plot>**
 
-If you have 6 field ids, then number of fields = 6
-
-If the directory for png is not there, the script will create one at the mentioned location.
+It will make the png plot in the working directory of the user.
 
 
