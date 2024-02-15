@@ -26,7 +26,7 @@ If the directories for html and png are not there, the script will create one at
 
 3. shadems.sh
 
-shadems is a software package that is used to plot the measurement sets. We use the shadems bash script here to plot the uv coverage of the measurement set colour coded by the antenna and also how the phase is changing with time per target per correlation. 
+shadems is a software package that is used to plot the measurement sets. We use the shadems bash script here to plot the uv coverage of the measurement set colour coded by the antenna.
 
 To use the script, please make sure that you already have shadems. If not, you can find the way to install it from: https://github.com/ratt-ru/shadeMS.git
 
